@@ -4,6 +4,6 @@ Repositório para armazenamento de material didático do curso de C# do professor 
 ## Sumário
 - [x] Seção 1: Apresentação do curso e orientações
 - [ ] [Seção 2](https://github.com/EmanuelDms/curso-csharp-nelio-alves/tree/2-secao): Introdução a C# e .NET
-  - [ ] Primeiro programa em C# no Visual Studio
+  - [x] Primeiro programa em C# no Visual Studio
   - [ ] Estrutura básica de um programa C#
   - [ ] Dicas do Visual Studio
